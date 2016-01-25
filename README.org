@@ -7,6 +7,8 @@ Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoi
 - */refran* : Manda un refran aleatorio
 
 * Uso
+Primero instalar las [[https://github.com/eternnoir/pyTelegramBotAPI#getting-started][dependencias]] de la API.
+
 #+BEGIN_SRC bash
   git clone https://github.com/Ironjanowar/MyTgBot.git
 

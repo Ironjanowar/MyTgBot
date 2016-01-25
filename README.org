@@ -1,0 +1,14 @@
+Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoir/pyTelegramBotAPI/tree/02c22c990b1affe9d43d8920f6b53fa10c38a82e][API]] que nos ofrece @eternnoir
+
+* Comandos
+- */start*  : Comienza el bot
+- */help*   : Muestra los comandos
+- */lmgtfy* : Let Me Google That For You
+- */refran* : Manda un refran aleatorio
+
+* Uso
+#+BEGIN_SRC bash
+  git clone https://github.com/Ironjanowar/MyTgBot.git
+
+  ./launch.sh
+#+END_SRC

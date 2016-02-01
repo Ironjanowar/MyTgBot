@@ -1,6 +1,7 @@
 import telebot
 import random
 import json
+from telebot import types
 
 # Create the bot with the token
 
@@ -32,9 +33,27 @@ def listener(messages):
       else:
         print ("Group -> " + str(m.chat.title) + " [" + str(m.chat.id) + "]: " + m.text)
 
+def is_user_waiting(user, userList):
+  for u in userList:
+    if user == u:
+      return True
+
+  return False
+
 # Listener
 
 bot.set_update_listener(listener)
+
+# User tracing
+
+user_tracing = []
+
+# Keyboards
+
+refranKeyboard = types.ReplyKeyboardMarkup(one_time_keyboard=True)
+refranKeyboard.add('Otro!', 'Suficiente')
+
+hideBoard = types.ReplyKeyboardHide()
 
 # Commands
 

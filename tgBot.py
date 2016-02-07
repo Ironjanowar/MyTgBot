@@ -44,10 +44,6 @@ def is_user_waiting(user, userList):
 
 bot.set_update_listener(listener)
 
-# User tracing
-
-user_tracing = []
-
 # Keyboards
 
 refranKeyboard = types.ReplyKeyboardMarkup(one_time_keyboard=True)

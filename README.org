@@ -1,4 +1,4 @@
-Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoir/pyTelegramBotAPI/tree/02c22c990b1affe9d43d8920f6b53fa10c38a82e][API]] que nos ofrece [[https://github.com/eternnoir][@eternnoir]]
+Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoir/pyTelegramBotAPI/tree/02c22c990b1affe9d43d8920f6b53fa10c38a82e][API]] que nos ofrece [[https://github.com/eternnoir][@eternnoir]].
 
 * Comandos
 - /start  :: Comienza el bot

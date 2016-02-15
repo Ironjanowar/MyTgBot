@@ -12,10 +12,10 @@ Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoi
   $ pip install pyTelegramBotAPI
 #+END_SRC
 
-- Clonar el repositorio.
+- Clonar el repositorio y acceder a él.
 #+BEGIN_SRC bash
-  $ git clone https://github.com/Ironjanowar/MyTgBot.git
-
+   $ git clone https://github.com/Ironjanowar/MyTgBot.git
+   $ cd MyTgBot
 #+END_SRC
 
 - Crear un archivo llamado *iron.token* con el token en el interior.

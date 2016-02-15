@@ -1,10 +1,10 @@
 Esto es un bot programado en Python gracias a esta [[https://github.com/eternnoir/pyTelegramBotAPI/tree/02c22c990b1affe9d43d8920f6b53fa10c38a82e][API]] que nos ofrece [[https://github.com/eternnoir][@eternnoir]]
 
 * Comandos
-- */start*  :: Comienza el bot
-- */help*   :: Muestra los comandos
-- */lmgtfy* :: Let Me Google That For You
-- */refran* :: Manda un refrán aleatorio
+- /start  :: Comienza el bot
+- /help   :: Muestra los comandos
+- /lmgtfy :: Let Me Google That For You
+- /refran :: Manda un refrán aleatorio
 
 * Instalación y Uso
 - Instalar las [[https://github.com/eternnoir/pyTelegramBotAPI#getting-started][dependencias]] de la API.
